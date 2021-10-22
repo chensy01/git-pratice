@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ccthis is added.
 =======
 ddthis is added.
